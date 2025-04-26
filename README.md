@@ -66,7 +66,7 @@ The project consists of two datasets:
 ---
 
 ## Author
-Jelena Puzova
+Jelena Půžová
 
 ---
 
